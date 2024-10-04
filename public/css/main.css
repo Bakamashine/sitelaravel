@@ -1,0 +1,11 @@
+.section-1-table-index
+{
+    width: 100%;
+    border: 2px solid black;
+}
+.section-1-td-index
+{
+    text-align: center;
+    margin-right: auto;
+    border: 1px solid black;
+}
